@@ -1,0 +1,6 @@
+get icon
+open template
+put icon in square with longest side being 600? (if logo has spec, follow)
+make circle icon colour
+make icon HSL
+make L -20

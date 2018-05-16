@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~ Copyright (c) 2017 Jahir Fiquitiva
+  ~
+  ~ Licensed under the CreativeCommons Attribution-ShareAlike
+  ~ 4.0 International License. You may not use this file except in compliance
+  ~ with the License. You may obtain a copy of the License at
+  ~
+  ~    http://creativecommons.org/licenses/by-sa/4.0/legalcode
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  ~
+  ~ Special thanks to the project contributors and collaborators
+  ~ 	https://github.com/jahirfiquitiva/IconShowcase#special-thanks
+  -->
+
+<resources>
+
+    <!-- AccuWeather -->
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.LauncherActivity}" drawable="accuweather"/>
+    <item component="ComponentInfo{com.accuweather.android/com.accuweather.app.SplashScreen}" drawable="accuweather"/>
+
+    <!-- Alto -->
+    <item component="ComponentInfo{com.noodlecake.altosadventure.amazon/com.prime31.UnityPlayerNativeActivity}" drawable="altos_adventure" />
+    <item component="ComponentInfo{com.noodlecake.altosadventure/com.prime31.UnityPlayerNativeActivity}" drawable="altos_adventure" />
+
+    <!-- Allo -->
+    <item component="ComponentInfo{com.google.android.apps.fireball/com.google.android.apps.fireball.ui.conversationlist.ConversationListActivity}" drawable="allo"/>
+
+    <!-- Amazon Shopping -->
+    <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+    <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
+
+    <!-- Authy -->
+    <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy" />
+
+    <!-- Discord -->
+    <item component="ComponentInfo{com.discord/com.discord.screens.ScreenAux$Main}" drawable="discord" />
+    <item component="ComponentInfo{com.discord/com.discord.app.AppActivity$Main}" drawable="discord" />
+
+    <!-- Dropbox -->
+    <item component="ComponentInfo{com.dropbox.android/com.dropbox.android.activity.DropboxBrowser}" drawable="dropbox"/>
+
+    <!-- Genius -->
+    <item component="ComponentInfo{com.genius.android/com.genius.android.MainActivity}" drawable="genius"/>
+
+    <!-- Google -->
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google"/>
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google"/>
+    <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher}" drawable="google"/>
+
+    <!-- Play Music -->
+    <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="play_music"/>
+
+    <!-- Player FM -->
+    <item component="ComponentInfo{fm.player/fm.player.ui.MainActivity_}" drawable="player_fm"/>
+    <item component="ComponentInfo{fm.player/fm.player.ui.MainActivity}" drawable="player_fm"/>
+
+    <!-- Reddit -->
+    <item component="ComponentInfo{com.reddit.frontpage/com.reddit.frontpage.StartActivity}" drawable="reddit"/>
+
+    <!-- Skype -->
+    <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype" />
+    <item component="ComponentInfo{com.skype.android.verizon/com.skype.android.verizon.SkypeActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.raider/com.skype.raider.ui.SplashScreenActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.android.kddi/com.skype.android.kddi.SkypeActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.android.kddi/com.skype.android.kddi.MainActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.android.vodafoneAU/com.skype.android.vodafoneAU.SkypeActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.android.lite/com.skype.android.lite.SkypeActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.rover/com.skype.rover.Main}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.android.telkomsel/com.skype.android.telkomsel.SkypeActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.android.threeUK/com.skype.android.threeUK.SkypeActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.android.threeAU/com.skype.android.threeAU.SkypeActivity}" drawable="skype"/>
+    <item component="ComponentInfo{com.skype.unlocked.raider/com.skype.unlocked.raider.ui.SplashScreenActivity}" drawable="skype"/>
+
+    <!-- Spotify -->
+    <item component="ComponentInfo{com.spotify.music/com.spotify.music.MainActivity}" drawable="reddit"/>
+
+    <!-- Steam -->
+    <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.CommunityActivity}" drawable="steam"/>
+
+    <!-- Telegram -->
+    <item component="ComponentInfo{org.telegram.messenger/org.telegram.ui.LaunchActivity}" drawable="telegram" />
+
+    <!-- Tumblr -->
+    <item component="ComponentInfo{com.tumblr/com.tumblr.activity.DashboardActivity}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.tumblr/com.tumblr.activity.TumblrActivity}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.datayeah.tumblrfree2/com.datayeah.tumblrfree2.Login}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.jamesob.tumblroid/com.jamesob.tumblroid.tumblroid}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.datayeah.tumblr/com.datayeah.tumblr.Login}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.jamesob.tumblroidlite/com.jamesob.tumblroidlite.tumblroidlite}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.nulldroid.tumblr/com.nulldroid.tumblr.TumblrActivity}" drawable="tumblr"/>
+    <item component="ComponentInfo{youngj.tumblr/com.android.tumblrviewer.AuthorizeActivity}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.tumblr/com.tumblr.activity.PostFragmentActivity}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.tumblr/com.tumblr.activity.BlogFragmentActivity}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.tumblr/com.tumblr.activity.WebsiteInterceptActivity}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.tumblr/com.tumblr.activity.RootFragmentActivity}" drawable="tumblr"/>
+    <item component="ComponentInfo{com.tumblr/com.tumblr.activity.TaggedPostFragmentActivity}" drawable="tumblr"/>
+
+    <!-- Twitch -->
+    <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.apps.SplashScreenActivity}" drawable="twitch"/>
+    <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.apps.LandingActivity}" drawable="twitch"/>
+    <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch"/>
+    <item component="ComponentInfo{tv.twitch.android.viewer/tv.twitch.android.apps.TwitchLandingActivity}" drawable="twitch"/>
+    <item component="ComponentInfo{tv.twitch.android.viewer/tv.twitch.android.apps.SplashScreenActivity}" drawable="twitch"/>
+
+    <!-- Twitter -->
+    <item component="ComponentInfo{com.htc.htctwitter/com.htc.htctwitter.TwidroidSplash}" drawable="twitter"/>
+    <item component="ComponentInfo{com.twitter.android/com.twitter.android.LoginActivity}" drawable="twitter"/>
+    <item component="ComponentInfo{com.twitter.android/com.twitter.android.StartActivity}" drawable="twitter"/>
+
+    <!-- Youtube -->
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomeActivity}" drawable="youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.HomePage}" drawable="youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.froyo.phone.HomeActivity}" drawable="youtube"/>
+    <item component="ComponentInfo{com.google.android.youtube/com.google.android.youtube.app.tablet.HomeActivity}" drawable="youtube"/>
+
+</resources>

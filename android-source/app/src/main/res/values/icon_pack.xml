@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string-array name="icons_preview">
+        <item>discord</item>
+        <item>spotify</item>
+        <item>twitter</item>
+        <item>reddit</item>
+        <item>steam</item>`
+        <item>twitch</item>
+        <item>youtube</item>
+        <item>altos_adventure</item>
+    </string-array>
+
+    <string-array name="icon_pack">
+        <item>accuweather</item>
+        <item>allo</item>
+        <item>altos_adventure</item>
+        <item>alto_alt</item>
+        <item>amazon</item>
+        <item>authy</item>
+        <item>discord</item>
+        <item>dropbox</item>
+        <item>genius</item>
+        <item>google</item>
+        <item>player_fm</item>
+        <item>play_music</item>
+        <item>reddit</item>
+        <item>skype</item>
+        <item>spotify</item>
+        <item>steam</item>`
+        <item>telegram</item>
+        <item>tumblr</item>
+        <item>twitch</item>
+        <item>twitter</item>
+        <item>youtube</item>
+    </string-array>
+
+</resources>

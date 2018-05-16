@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">inset</string>
+	<string name="default_download_folder">%1$s/inset/Wallpapers</string>
+	<string name="app_description">Pressed in icons</string>
+	<string name="json_url">https://childishgiant.github.io/inset-site/wallpapers/wallpapers.json</string>
+</resources>

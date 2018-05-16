@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="130"
+   width="130"
+   id="svg36"
+   version="1.1"
+   viewBox="0 0 130 130"
+   y="0px"
+   x="0px"
+   sodipodi:docname="Play_Music.svg"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview16"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="3.668475"
+     inkscape:cx="96.37464"
+     inkscape:cy="65.804247"
+     inkscape:window-x="1272"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg36" />
+  <metadata
+     id="metadata42">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs40" />
+  <linearGradient
+     gradientUnits="userSpaceOnUse"
+     y2="7.9380002"
+     y1="183.6666"
+     x2="98.985703"
+     x1="98.985703"
+     id="a">
+    <stop
+       id="stop8"
+       stop-opacity="0"
+       stop-color="#FFF"
+       offset="0" />
+    <stop
+       id="stop10"
+       stop-opacity="0.1"
+       stop-color="#FFF"
+       offset="1" />
+  </linearGradient>
+  <circle
+     cy="65"
+     cx="65"
+     id="path849"
+     style="opacity:1;fill:#ffd119;fill-opacity:0.97254902;fill-rule:nonzero;stroke:none;stroke-width:1.04303145;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     r="65" />
+  <linearGradient
+     gradientUnits="userSpaceOnUse"
+     y2="136.2504"
+     y1="110.4006"
+     x2="119.2413"
+     x1="104.3169"
+     id="b">
+    <stop
+       id="stop21"
+       stop-opacity="0"
+       stop-color="#991700"
+       offset="0" />
+    <stop
+       id="stop23"
+       stop-opacity="0.1"
+       stop-color="#991700"
+       offset="1" />
+  </linearGradient>
+  <g
+     transform="translate(1.110611,0.49874878)"
+     id="g854">
+    <circle
+       cx="63.889389"
+       cy="64.501251"
+       r="40"
+       id="circle19"
+       style="fill:#ff8c00;stroke:none" />
+    <g
+       id="g32"
+       style="fill:#d87700;fill-opacity:1;stroke:none"
+       transform="translate(-32.110611,-31.498749)">
+      <path
+         d="m 96,75 v 24.6 c -1.4,-0.8 -3,-1.3 -4.7,-1.3 -5.2,0 -9.3,4.2 -9.3,9.3 0,5.2 4.2,9.3 9.3,9.3 5.2,0 9.7,-4.2 9.7,-9.3 V 85 h 9 V 75 Z"
+         id="path30"
+         style="fill:#d87700;fill-opacity:1;stroke:none"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

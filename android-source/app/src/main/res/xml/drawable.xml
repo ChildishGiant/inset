@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <category title="Communication"/>
+    <item drawable="discord" />
+    <item drawable="skype" />
+    <item drawable="telegram" />
+
+    <category title="Entertainment"/>
+    <item drawable="steam" />
+    <item drawable="twitch" />
+
+    <category title="Google"/>
+    <item drawable="allo" />
+    <item drawable="google" />
+    <item drawable="play_music" />
+    <item drawable="youtube" />
+
+    <category title="Games"/>
+    <item drawable="altos_adventure" />
+    <item drawable="alto_alt" />
+
+    <category title="Music &amp; Audio"/>
+    <item drawable="genius" />
+    <item drawable="spotify" />
+
+    <category title="News &amp; Magazines"/>
+    <item drawable="player_fm" />
+    <item drawable="reddit" />
+    <item drawable="twitter" />
+
+
+    <category title="Productivity"/>
+    <item drawable="dropbox" />
+
+    <category title="Shopping"/>
+    <item drawable="amazon" />
+
+    <category title="Social"/>
+    <item drawable="tumblr" />
+
+    <category title="Tools"/>
+    <item drawable="authy" />
+
+    <category title="Weather"/>
+    <item drawable="accuweather" />
+
+</resources>

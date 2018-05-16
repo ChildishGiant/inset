@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<bool name="kolorette_required">false</bool>
+	<bool name="media_utils_required">false</bool>
+	<string name="kustom_pack_title">@string/app_name</string>
+	<string name="kustom_pack_description">Pressed in icons</string>
+	<string name="zooper_pack_name">@string/app_name</string>
+	<string name="zooper_pack_desc">Pressed in icons</string>
+	<string name="zooper_pack_author">ChildishGiant</string>
+	<drawable name="zooper_pack_icon">@mipmap/ic_launcher</drawable>
+	<integer name="zooper_pack_allowsave">1</integer>
+</resources>
