@@ -15,7 +15,7 @@
    width="1000"
    height="1000"
    viewBox="0 0 1000 1000"
-   sodipodi:docname="Github.svg"
+   sodipodi:docname="Github_Alt.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
    inkscape:label="circle"><metadata
      id="metadata1297"><rdf:RDF><cc:Work
@@ -40,8 +40,8 @@
      id="namedview1293"
      showgrid="false"
      inkscape:zoom="0.34570311"
-     inkscape:cx="761.64683"
-     inkscape:cy="405.06976"
+     inkscape:cx="677.75982"
+     inkscape:cy="425.31835"
      inkscape:window-x="-8"
      inkscape:window-y="52"
      inkscape:window-maximized="1"
@@ -50,13 +50,13 @@
      fit-margin-left="0"
      fit-margin-right="0"
      fit-margin-bottom="0" /><circle
-     style="opacity:1;fill:#22262a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:34.87042236;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#5a5a5a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:34.87042236;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle-2"
      cx="500"
      cy="-500"
      transform="scale(1,-1)"
      r="500" /><path
-     style="opacity:1;fill:#5a5a5a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:34.87042236;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#282828;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:34.87042236;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 239.49609 209.53711 C 232.38102 209.62742 228.95898 210.72461 228.95898 210.72461 C 200.83507 281.74362 218.59762 334.24407 223.85742 347.3457 C 190.91465 383.47001 170.78906 429.45069 170.78906 485.82617 C 170.78906 683.54829 291.28536 727.83075 405.83008 740.86914 C 391.12022 753.71856 377.76817 776.51921 373.07812 809.77734 C 343.7251 823.00506 268.9575 845.80731 222.91211 766.94531 C 222.91211 766.94531 195.63611 717.37308 143.82812 713.7832 C 143.82812 713.7832 93.376358 713.15215 140.27148 745.15039 C 140.27148 745.15039 174.06387 761.02392 197.55859 820.61133 C 197.55859 820.61133 227.88899 912.63794 371.37695 881.45898 C 371.62921 924.54343 372.10156 965.23427 372.10156 977.51758 C 372.10156 979.31455 371.93246 981.15124 371.58789 982.97656 A 500 500 0 0 0 500 1000 A 500 500 0 0 0 628.29883 982.63672 C 628.00965 980.94474 627.86719 979.24532 627.86719 977.58008 C 627.86719 960.57326 628.56055 904.95387 628.56055 835.98047 C 628.56055 787.85704 612.12127 756.48939 593.53906 740.49023 C 708.49292 727.703 829.17969 684.05215 829.17969 485.82617 C 829.17969 429.45171 809.20886 383.47001 776.14258 347.3457 C 781.43382 334.30634 799.19516 281.86963 770.97656 210.78711 C 770.97656 210.78711 727.64135 196.86672 629.18945 263.69727 C 587.99368 252.20203 543.83809 246.47063 499.99805 246.28125 C 456.12656 246.47073 412.00259 252.13958 370.87109 263.63477 C 299.97415 215.64522 257.67907 209.30632 239.49609 209.53711 z "
      id="circle"
      inkscape:label="cat" /><g
