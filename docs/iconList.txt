@@ -13,6 +13,7 @@ github.png
 github_alt.png
 github_altdetailed.png
 github_detailed.png
+gmail.png
 google.png
 inset.png
 player_fm.png

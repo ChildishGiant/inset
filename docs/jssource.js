@@ -23,7 +23,7 @@ function go(r) {
 		parent.className = "column is-half-mobile is-one-quarter-tablet is-2-desktop is-2-widescreen is-1-fullhd";
 
 		const baby = document.createElement("img");
-		baby.src = `../generator/out/drawable-xxxhdpi/${list[item]}`;
+		baby.src = `icons/${list[item]}`;
 		baby.classList.add("inset");
 		baby.classList.add("shadowed");
 
